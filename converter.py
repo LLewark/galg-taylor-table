@@ -343,6 +343,10 @@ raw data
 <p>
 This website lists the values of the algebraic genus [FL18] and the Taylor invariant [Tay77] for all prime knots with crossing number 12 or less.
 Details about how these values were computed are contained in the papers [LM19, FL19].
+<br>
+The <i>Taylor invariant</i> is the best lower bound for the topological (or smooth) slice genus that can be read off the S-equivalence class of the Seifert matrix (or equivalently, the isometry class of the Blanchfield pairing) [Tay77]. The <i>algebraic genus</i> is an upper bound for the topological slice genus; it may also be read off the S-equivalence class of the Seifert matrix.
+The algebraic genus of a knot K is in fact equal to its <i>&Zopf;-slice genus</i> [FL19], which is the minimal genus of a topological slice surface of K whose complement has fundamental group isomorphic to &Zopf;.
+<br>
 This website has been generated with a modification of a script written by Claudius Zibrowius (<a href=https://github.com/LLewark/theta>link</a>).
 
 <div id="paper">
