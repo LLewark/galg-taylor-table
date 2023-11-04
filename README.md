@@ -24,4 +24,8 @@ The table is generated from the source file `data.csv` by running the script `co
 
     ./converter.py data.csv > index.html
 
+## Acknowledgments
+
 This script is a modified copy of a script written by Claudius Zibrowius for a [similar online table](https://github.com/LLewark/theta).
+
+While working on this program, Lukas Lewark was supported by the Emmy Noether Programme of the DFG, project number 412851057.
